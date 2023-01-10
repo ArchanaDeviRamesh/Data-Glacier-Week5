@@ -7,6 +7,7 @@ A ML project with Render Cloud deployment
 ### Software and Tools Requirement
 
 1. [Render](https://render.com/)
+2. [Postman](https://www.postman.com/)
 
 
-Check the pdf for all the steps to deploy a ML application on render cloud. 
+Check the pdf for all the steps to deploy a ML application on render cloud and also api based deployment using Postman. 
